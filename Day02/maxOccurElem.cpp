@@ -1,4 +1,4 @@
-//Maximum occuring integer for given ranges
+//Maximum occurring integer for given ranges
 
 #include <bits/stdc++.h>
 using namespace std;
