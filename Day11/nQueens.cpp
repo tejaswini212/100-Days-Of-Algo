@@ -1,3 +1,4 @@
+#define N 5
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -40,11 +41,12 @@ int main() {
                        {0,0,0,0,0},
                        {0,0,0,0,0} };
     if (nQueen(board, 0) == false)
-        cout < "Queen's cannot be placed";
+        cout << "Queen's cannot be placed";
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < N; j++)
-            cout << board[i][j];
+            cout << board[i][j]<<" ";
         cout << "\n";
     }
     return 0;
 }
+
