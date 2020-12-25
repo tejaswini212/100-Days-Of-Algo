@@ -1,95 +1,56 @@
-#include <iostream> 
+#include <bits/stdc++.h> 
 using namespace std;
 
-class BST
+class node
 {
-    int data;
-    BST* left, * right;
-
 public:
-    // Default constructor. 
-    BST();
-
-    // Parameterized constructor. 
-    BST(int);
-
-    // Insert function. 
-    BST* Insert(BST*, int);
-
-    // Inorder traversal. 
-    void Inorder(BST*);
+    int data;
+    node* left, * right;
 };
 
-// Default Constructor definition. 
-BST::BST()
-    : data(0)
-    , left(NULL)
-    , right(NULL)
+node* newNode(int data)
 {
+    node* Node = new node();
+    Node->data = data;
+    Node->left = Node->right = NULL;
+    return(Node);
 }
 
-// Parameterized Constructor definition. 
-BST::BST(int value)
+node* lca(node* root, int n1, int n2)
 {
-    data = value;
-    left = right = NULL;
-}
+    if (root == NULL) return NULL;
 
-// Insert function definition. 
-BST* BST::Insert(BST* root, int value)
-{
-    if (!root)
-    {
-        // Insert the first node, if root is NULL. 
-        return new BST(value);
-    }
+    // If both n1 and n2 are smaller than root, then LCA lies in left  
+    if (root->data > n1 && root->data > n2)
+        return lca(root->left, n1, n2);
 
-    // Insert data. 
-    if (value > root->data)
-    {
-        // Insert right node data, if the 'value' 
-        // to be inserted is greater than 'root' node data. 
+    // If both n1 and n2 are greater than root, then LCA lies in right  
+    if (root->data < n1 && root->data < n2)
+        return lca(root->right, n1, n2);
 
-        // Process right nodes. 
-        root->right = Insert(root->right, value);
-    }
-    else
-    {
-        // Insert left node data, if the 'value' 
-        // to be inserted is greater than 'root' node data. 
-
-        // Process left nodes. 
-        root->left = Insert(root->left, value);
-    }
-
-    // Return 'root' node, after insertion. 
     return root;
 }
 
-// Inorder traversal function. 
-// This gives data in sorted order. 
-void BST::Inorder(BST* root)
-{
-    if (!root) {
-        return;
-    }
-    Inorder(root->left);
-    cout << root->data << endl;
-    Inorder(root->right);
-}
-
-// Driver code 
 int main()
 {
-    BST b, * root = NULL;
-    root = b.Insert(root, 50);
-    b.Insert(root, 30);
-    b.Insert(root, 20);
-    b.Insert(root, 40);
-    b.Insert(root, 70);
-    b.Insert(root, 60);
-    b.Insert(root, 80);
+    node* root = newNode(20);
+    root->left = newNode(8);
+    root->right = newNode(22);
+    root->left->left = newNode(4);
+    root->left->right = newNode(12);
+    root->left->right->left = newNode(10);
+    root->left->right->right = newNode(14);
 
-    b.Inorder(root);
+    int n1 = 10, n2 = 14;
+    node* t = lca(root, n1, n2);
+    cout << "LCA of " << n1 << " and " << n2 << " is " << t->data << "\n";
+
+    n1 = 14, n2 = 8;
+    t = lca(root, n1, n2);
+    cout << "LCA of " << n1 << " and " << n2 << " is " << t->data << "\n";
+
+    n1 = 10, n2 = 22;
+    t = lca(root, n1, n2);
+    cout << "LCA of " << n1 << " and " << n2 << " is " << t->data << "\n";
     return 0;
 }
