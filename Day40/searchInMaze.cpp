@@ -2,6 +2,7 @@
 using namespace std;
 
 typedef enum {white,black} color;
+
 struct Coordinate {
 	bool operator==(const Coordinate& that) const {
 		return x == that.x && y == that.y;
@@ -9,10 +10,12 @@ struct Coordinate {
 	int x, y;
 };
 
+//Check cur is within maze and is a white pixel
 bool isFeasible(const Coordinate& cur, const vector<vector<color>>& maze) {
 	return (cur.x >= 0 && cur.x < maze.size() && cur.y >= 0 && cur.y < maze[cur.x].size() && maze[cur.x][cur.y] == white);
 }
 
+//Perform DFS to find a feasible path
 bool SearchMazeHelper(const Coordinate& cur, const Coordinate& e, vector<vector<color>>* maze, vector<Coordinate>* path) {
 	if (cur == e)
 		return true;
@@ -35,7 +38,7 @@ vector<Coordinate> SearchMaze(vector<vector<color>>& maze, const Coordinate& s, 
 	maze[s.x][s.y] = black;
 	path.emplace_back(s);
 	if (!SearchMazeHelper(s, e, &maze, &path))
-		path.pop_back();
+		path.pop_back(); //Empty path implies no path between s and e
 	return path;
 }
 
