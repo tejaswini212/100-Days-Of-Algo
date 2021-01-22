@@ -6,4 +6,4 @@ Day 2:\
 [1. Maximum occuring element](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day02/maxOccurElem.cpp)\
 Day 3:\
 [1. Integer Square Root](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day03/intSquareRoot.cpp)\
-[4. Peak Element](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day03/peakElement.cpp)\
+[2. Peak Element](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day03/peakElement.cpp)
