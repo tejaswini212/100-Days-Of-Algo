@@ -33,5 +33,8 @@ Day 52:\
 Day 53:\
 [1. String rotation or substring](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day53/StringRotation.cpp)\
 [2. Zero Matrix](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day53/zeroMatrix.cpp)\
+Day 54:\
+[1. Delete middle element in a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day54/deleteMidEle.cpp)\
+[2. Return kth element from the last of a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day54/returnKthElemLL.cpp)
 
 
