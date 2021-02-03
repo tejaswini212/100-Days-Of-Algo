@@ -35,6 +35,9 @@ Day 53:\
 [2. Zero Matrix](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day53/zeroMatrix.cpp)\
 Day 54:\
 [1. Delete middle element in a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day54/deleteMidEle.cpp)\
-[2. Return kth element from the last of a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day54/returnKthElemLL.cpp)
+[2. Return kth element from the last of a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day54/returnKthElemLL.cpp)\
+Day 55:\
+[1. Add numbers in a linked list represented in a normal order](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day55/addNumsLLForward.cpp)\
+[2. Detect loop in a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day55/loopInLL.cpp)
 
 
