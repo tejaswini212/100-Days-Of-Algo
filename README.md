@@ -42,5 +42,5 @@ Day 55:\
 Day 56:\
 [1. Find the longest harmonious subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/tree/main/Day56)\
 Day 57:\
-[1. Trapping rain water problem(O($n^2$))](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day57/trappingRain2.cpp)\
+[1. Trapping rain water problem(O(n^2))](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day57/trappingRain2.cpp)\
 [2. Trapping rain water problem - O(n) solution](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day57/ntrappingRainWater.cpp)
