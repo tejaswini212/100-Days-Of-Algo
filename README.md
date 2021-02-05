@@ -38,6 +38,6 @@ Day 54:\
 [2. Return kth element from the last of a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day54/returnKthElemLL.cpp)\
 Day 55:\
 [1. Add numbers in a linked list represented in a normal order](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day55/addNumsLLForward.cpp)\
-[2. Detect loop in a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day55/loopInLL.cpp)
-
-
+[2. Detect loop in a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day55/loopInLL.cpp)\
+Day 56:\
+[1. Find the longest harmonious subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/tree/main/Day56)
