@@ -48,4 +48,6 @@ Day 58:\
 [1. Maximum sum subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day58/MaxSumIncSub.cpp)\
 [2. Edit Distance Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day58/EditDistance.cpp)\
 Day 59:\
-[1. Egg Dropping Puzzle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day59/eggDropping.cpp)
+[1. Egg Dropping Puzzle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day59/eggDropping.cpp)\
+Day 60:\
+[1. Finding strongly connected components (Kosaraju Algorithm)](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day60/korasajuAlgo.cpp)
