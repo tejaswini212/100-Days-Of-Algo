@@ -46,4 +46,6 @@ Day 57:\
 [2. Trapping rain water problem - O(n) solution](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day57/ntrappingRainWater.cpp)\
 Day 58:\
 [1. Maximum sum subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day58/MaxSumIncSub.cpp)\
-[2. Edit Distance Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day58/EditDistance.cpp)
+[2. Edit Distance Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day58/EditDistance.cpp)\
+Day 59:\
+[1. Egg Dropping Puzzle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day59/eggDropping.cpp)
