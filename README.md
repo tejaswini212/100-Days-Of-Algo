@@ -27,6 +27,11 @@ Day 9:\
 Day 10:\
 [1. Count Set Lookup](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day10/countSetLookup.cpp)\
 [2. Two Odd Occurences](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day10/twoOddOccurence.cpp)\
+Day 11:\
+[1. Knights tour problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day11/knightsTour.cpp)\
+[2. N-Queens problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day11/nQueens.cpp)\
+Day 12:\
+[1. Graph Topological Sorting (Kahn's Algorithm)](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day12/Graph_topSortKahnAlgo.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -48,4 +53,6 @@ Day 58:\
 [1. Maximum sum subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day58/MaxSumIncSub.cpp)\
 [2. Edit Distance Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day58/EditDistance.cpp)\
 Day 59:\
-[1. Egg Dropping Puzzle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day59/eggDropping.cpp)
+[1. Egg Dropping Puzzle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day59/eggDropping.cpp)\
+Day 60:\
+[1. Finding strongly connected components (Kosaraju Algorithm)](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day60/korasajuAlgo.cpp)
