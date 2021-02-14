@@ -55,4 +55,6 @@ Day 58:\
 Day 59:\
 [1. Egg Dropping Puzzle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day59/eggDropping.cpp)\
 Day 60:\
-[1. Finding strongly connected components (Kosaraju Algorithm)](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day60/korasajuAlgo.cpp)
+[1. Finding strongly connected components (Kosaraju Algorithm)](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day60/korasajuAlgo.cpp)\
+Day 61:\
+[1. Finding quadruplet in a given array for the sum specified](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day61/findQuadruplet.cpp)
