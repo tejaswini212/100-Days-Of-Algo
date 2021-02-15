@@ -57,4 +57,8 @@ Day 59:\
 Day 60:\
 [1. Finding strongly connected components (Kosaraju Algorithm)](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day60/korasajuAlgo.cpp)\
 Day 61:\
-[1. Finding quadruplet in a given array for the sum specified](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day61/findQuadruplet.cpp)
+[1. Finding quadruplet in a given array for the sum specified](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day61/findQuadruplet.cpp)\
+Day 62:\
+[1. Operations on Circular Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day62/circularLL.cpp)\
+[2. Operations on Doubly Linked List - Delete, Reverse](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day62/delHeadDLL.cpp)
+
