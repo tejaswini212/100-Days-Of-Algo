@@ -32,6 +32,9 @@ Day 11:\
 [2. N-Queens problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day11/nQueens.cpp)\
 Day 12:\
 [1. Graph Topological Sorting (Kahn's Algorithm)](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day12/Graph_topSortKahnAlgo.cpp)\
+Day 13:\
+[1. Level Order Traversal of a Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day13/levelOrderTraversal.cpp)\
+[2. Path sum of a Binaary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day13/pathSum.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -61,4 +64,6 @@ Day 61:\
 Day 62:\
 [1. Operations on Circular Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day62/circularLL.cpp)\
 [2. Operations on Doubly Linked List - Delete, Reverse](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day62/delHeadDLL.cpp)
-
+Day 63:\
+[1. Implementing K-Stack in an array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/impl_K_StackArr.cpp)\
+[2. Stock Span Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/stockSpan.cpp)
