@@ -63,7 +63,7 @@ Day 61:\
 [1. Finding quadruplet in a given array for the sum specified](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day61/findQuadruplet.cpp)\
 Day 62:\
 [1. Operations on Circular Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day62/circularLL.cpp)\
-[2. Operations on Doubly Linked List - Delete, Reverse](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day62/delHeadDLL.cpp)
+[2. Operations on Doubly Linked List - Delete, Reverse](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day62/delHeadDLL.cpp)\
 Day 63:\
 [1. Implementing K-Stack in an array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/impl_K_StackArr.cpp)\
 [2. Stock Span Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/stockSpan.cpp)
