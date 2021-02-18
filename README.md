@@ -35,6 +35,9 @@ Day 12:\
 Day 13:\
 [1. Level Order Traversal of a Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day13/levelOrderTraversal.cpp)\
 [2. Path sum of a Binaary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day13/pathSum.cpp)\
+Day 14:\
+[1. Conversion of a binary tree to a doubly linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day14/binTreeToDLL.cpp)\
+[2. Verify children sum property of a binary tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day14/childrenSum.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -66,4 +69,6 @@ Day 62:\
 [2. Operations on Doubly Linked List - Delete, Reverse](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day62/delHeadDLL.cpp)\
 Day 63:\
 [1. Implementing K-Stack in an array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/impl_K_StackArr.cpp)\
-[2. Stock Span Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/stockSpan.cpp)
+[2. Stock Span Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/stockSpan.cpp)\
+Day 64\
+[1. Search in a sorted and infinite length array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day64/searchInf.cpp)
