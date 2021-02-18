@@ -38,6 +38,9 @@ Day 13:\
 Day 14:\
 [1. Conversion of a binary tree to a doubly linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day14/binTreeToDLL.cpp)\
 [2. Verify children sum property of a binary tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day14/childrenSum.cpp)\
+Day 15:\
+[1. Graph Algorithm - Bellman Ford](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day15/bellmanFord_graph.cpp)\
+[2. Graph Algorithm - Floyd Warshall](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day15/floydWarshall.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -70,5 +73,8 @@ Day 62:\
 Day 63:\
 [1. Implementing K-Stack in an array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/impl_K_StackArr.cpp)\
 [2. Stock Span Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day63/stockSpan.cpp)\
-Day 64\
-[1. Search in a sorted and infinite length array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day64/searchInf.cpp)
+Day 64:\
+[1. Search in a sorted and infinite length array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day64/searchInf.cpp)\
+Day 65:\
+[1. Length of longest sum subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day65/longSumLen.cpp)\
+[2. Find if a zero sum subsequence is present in array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day65/zeroSumSub.cpp)
