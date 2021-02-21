@@ -41,6 +41,8 @@ Day 14:\
 Day 15:\
 [1. Graph Algorithm - Bellman Ford](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day15/bellmanFord_graph.cpp)\
 [2. Graph Algorithm - Floyd Warshall](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day15/floydWarshall.cpp)\
+Day 16:\
+[1. Clone linked list with random pointer](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day16/CloneLinkedList.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -77,4 +79,7 @@ Day 64:\
 [1. Search in a sorted and infinite length array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day64/searchInf.cpp)\
 Day 65:\
 [1. Length of longest sum subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day65/longSumLen.cpp)\
-[2. Find if a zero sum subsequence is present in array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day65/zeroSumSub.cpp)
+[2. Find if a zero sum subsequence is present in array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day65/zeroSumSub.cpp)\
+Day 66:\
+[1. Disjoint Set - Simple](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day66/disjointSet.cpp)\
+[2. Disjoint Set - Union Rank](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day66/disjSetUnionRank.cpp)
