@@ -43,6 +43,10 @@ Day 15:\
 [2. Graph Algorithm - Floyd Warshall](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day15/floydWarshall.cpp)\
 Day 16:\
 [1. Clone linked list with random pointer](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day16/CloneLinkedList.cpp)\
+Day 17:\
+[1. Longest Palindromic Subsequence - DP](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day17/DPLongestPalin.cpp)\
+[2. Longest Palindromic Subsequence - Manacher's Algorithm](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day17/ManacherAlgoLongestPalin.cpp)\
+[3. Common elements of 3 arrays](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day17/comon3Array.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -82,4 +86,6 @@ Day 65:\
 [2. Find if a zero sum subsequence is present in array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day65/zeroSumSub.cpp)\
 Day 66:\
 [1. Disjoint Set - Simple](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day66/disjointSet.cpp)\
-[2. Disjoint Set - Union Rank](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day66/disjSetUnionRank.cpp)
+[2. Disjoint Set - Union Rank](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day66/disjSetUnionRank.cpp)\
+Day 67:\
+[1. Finding Top K Elements](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day67/topKElements.cpp)
