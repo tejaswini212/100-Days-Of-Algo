@@ -53,6 +53,9 @@ Day 18:\
 Day 19:\
 [1. LCA in BST](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day19/LCAinBST.cpp)\
 [2. Flatten Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day19/flattenLL.cpp)\
+Day 20:
+[1. Diagonal Traversal of a Matrix](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day20/diagonaltrav.cpp)\
+[2. Swap Linked List's Nodes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day20/swapLLNodes.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -98,4 +101,6 @@ Day 67:\
 Day 68:\
 [1. Longest word in a dictionary](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day68/longWordInDict.cpp)\
 Day 69:\
-[1. Score of a paranthesis](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day69/scParan.cpp)
+[1. Score of a paranthesis](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day69/scParan.cpp)\
+Day 70:\
+[1. Shortest unsorted subarray removal](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day70/shortestUnsorted.cpp)
