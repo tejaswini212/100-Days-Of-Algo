@@ -47,6 +47,12 @@ Day 17:\
 [1. Longest Palindromic Subsequence - DP](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day17/DPLongestPalin.cpp)\
 [2. Longest Palindromic Subsequence - Manacher's Algorithm](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day17/ManacherAlgoLongestPalin.cpp)\
 [3. Common elements of 3 arrays](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day17/comon3Array.cpp)\
+Day 18:\
+[1. Word Wrap Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day18/WordWrap.cpp)\
+[2. Word Break Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day18/wordbreak.cpp)\
+Day 19:\
+[1. LCA in BST](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day19/LCAinBST.cpp)\
+[2. Flatten Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day19/flattenLL.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -88,4 +94,8 @@ Day 66:\
 [1. Disjoint Set - Simple](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day66/disjointSet.cpp)\
 [2. Disjoint Set - Union Rank](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day66/disjSetUnionRank.cpp)\
 Day 67:\
-[1. Finding Top K Elements](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day67/topKElements.cpp)
+[1. Finding Top K Elements](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day67/topKElements.cpp)\
+Day 68:\
+[1. Longest word in a dictionary](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day68/longWordInDict.cpp)\
+Day 69:\
+[1. Score of a paranthesis](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day69/scParan.cpp)
