@@ -56,6 +56,10 @@ Day 19:\
 Day 20:
 [1. Diagonal Traversal of a Matrix](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day20/diagonaltrav.cpp)\
 [2. Swap Linked List's Nodes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day20/swapLLNodes.cpp)\
+Day 21:\
+[1. Decode Ways](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day21/decodeWays.cpp)\
+Day 51:\
+[1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
 [1. Deepest Level Sum of BTree Leaves](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/deepestLevelSum.cpp)\
 [2. Vertical Order Traversal of a BTree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day52/verticalOrderTravBT.cpp)\
@@ -103,4 +107,6 @@ Day 68:\
 Day 69:\
 [1. Score of a paranthesis](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day69/scParan.cpp)\
 Day 70:\
-[1. Shortest unsorted subarray removal](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day70/shortestUnsorted.cpp)
+[1. Shortest unsorted subarray removal](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day70/shortestUnsorted.cpp)\
+Day 71:\
+[1. Division of two numbers using bit manipulation](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day71/divTwoNum.cpp)
