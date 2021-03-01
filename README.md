@@ -58,6 +58,8 @@ Day 20:
 [2. Swap Linked List's Nodes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day20/swapLLNodes.cpp)\
 Day 21:\
 [1. Decode Ways](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day21/decodeWays.cpp)\
+Day 22:\
+[1. Construct Binary Tree from Inorder and Preorder Traversal](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day22/constructBT.cpp)
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -109,4 +111,6 @@ Day 69:\
 Day 70:\
 [1. Shortest unsorted subarray removal](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day70/shortestUnsorted.cpp)\
 Day 71:\
-[1. Division of two numbers using bit manipulation](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day71/divTwoNum.cpp)
+[1. Division of two numbers using bit manipulation](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day71/divTwoNum.cpp)\
+Day 72:\
+[1. Distribute candies problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day72/distributeCandy.cpp)
