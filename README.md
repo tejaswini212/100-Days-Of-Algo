@@ -59,7 +59,19 @@ Day 20:
 Day 21:\
 [1. Decode Ways](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day21/decodeWays.cpp)\
 Day 22:\
-[1. Construct Binary Tree from Inorder and Preorder Traversal](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day22/constructBT.cpp)
+[1. Construct Binary Tree from Inorder and Preorder Traversal](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day22/constructBT.cpp)\
+Day 23:\
+[1. Sorted Array to Balanced Binary Search Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day23/SAtoBalancedBST.cpp)\
+[2. Increasing arbitrary precision integer by 1](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day23/incArbPrecisInt.cpp)\
+Day 24:\
+[1. Check permutation](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day24/CheckPermutation.java)\
+[2. Is unique character](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day24/IsUniqueChars.java)\
+Day 25:\
+[1. URLify a string](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day25/URLify.java)\
+[2. Array Permutation](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day25/arrPermute.cpp)\
+Day 26:\
+[1. Check if a string is one away](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day26/OneAway.java)\
+[2. String Compression](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day26/StringCompression.java)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -113,4 +125,12 @@ Day 70:\
 Day 71:\
 [1. Division of two numbers using bit manipulation](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day71/divTwoNum.cpp)\
 Day 72:\
-[1. Distribute candies problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day72/distributeCandy.cpp)
+[1. Distribute candies problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day72/distributeCandy.cpp)\
+Day 73:\
+[1. Maximum Sum of Node to leaf](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day73/maxSumNodeToLeaf.cpp)\
+Day 74:\
+[1. Maximum height of a tree for a node as root of tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day74/dpOnTrees2.cpp)\
+Day 75:\
+[1. Get Intersectio of two Linked Lists](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day75/getIntersectLL.cpp)\
+Day 76:\
+[1. Average of levels of Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day76/avgOfLevelBT.cpp)
