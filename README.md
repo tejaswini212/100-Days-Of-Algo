@@ -72,6 +72,9 @@ Day 25:\
 Day 26:\
 [1. Check if a string is one away](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day26/OneAway.java)\
 [2. String Compression](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day26/StringCompression.java)\
+Day 27:\
+[1. Buy and Sell Stock - I](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day27/BuyAndSellStock.cpp)\
+[2. Buy and Sell Stock - II](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day27/BuyAndSellStockTwice.cpp)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -133,4 +136,6 @@ Day 74:\
 Day 75:\
 [1. Get Intersectio of two Linked Lists](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day75/getIntersectLL.cpp)\
 Day 76:\
-[1. Average of levels of Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day76/avgOfLevelBT.cpp)
+[1. Average of levels of Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day76/avgOfLevelBT.cpp)\
+Day 77:\
+[1. Check if a number is sum of distinct powers of 3](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day77/sumOfPower3.cpp)
