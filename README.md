@@ -75,6 +75,8 @@ Day 26:\
 Day 27:\
 [1. Buy and Sell Stock - I](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day27/BuyAndSellStock.cpp)\
 [2. Buy and Sell Stock - II](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day27/BuyAndSellStockTwice.cpp)\
+Day28:\
+[1. Maximum units on a truck](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day28/maxUnitsOnTruck.cpp)
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -138,4 +140,6 @@ Day 75:\
 Day 76:\
 [1. Average of levels of Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day76/avgOfLevelBT.cpp)\
 Day 77:\
-[1. Check if a number is sum of distinct powers of 3](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day77/sumOfPower3.cpp)
+[1. Check if a number is sum of distinct powers of 3](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day77/sumOfPower3.cpp)\
+Day 78:\
+[1. Binary Tree Cameras](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day78/BTreeCamDFS.cpp)
