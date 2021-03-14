@@ -76,7 +76,10 @@ Day 27:\
 [1. Buy and Sell Stock - I](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day27/BuyAndSellStock.cpp)\
 [2. Buy and Sell Stock - II](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day27/BuyAndSellStockTwice.cpp)\
 Day28:\
-[1. Maximum units on a truck](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day28/maxUnitsOnTruck.cpp)
+[1. Maximum units on a truck](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day28/maxUnitsOnTruck.cpp)\
+Day 29:\
+[1. Merge two sorted linked lists](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day29/mergeTwoSortedLL.cpp)\
+[2. Range Sum of BST](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day29/rangeSumOfBST.cpp)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -142,4 +145,7 @@ Day 76:\
 Day 77:\
 [1. Check if a number is sum of distinct powers of 3](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day77/sumOfPower3.cpp)\
 Day 78:\
-[1. Binary Tree Cameras](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day78/BTreeCamDFS.cpp)
+[1. Binary Tree Cameras](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day78/BTreeCamDFS.cpp)\
+Day 79:\
+[1. Find center of Star Graph](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day79/findCenterOfStarGraph.cpp)\
+[2. Maximum score of good array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day79/maxScoreOfGoodArray.cpp)
