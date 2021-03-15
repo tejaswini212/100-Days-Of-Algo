@@ -80,6 +80,8 @@ Day28:\
 Day 29:\
 [1. Merge two sorted linked lists](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day29/mergeTwoSortedLL.cpp)\
 [2. Range Sum of BST](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day29/rangeSumOfBST.cpp)\
+Day 30:\
+[1. Delete duplicates in a Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day30/delDupLL.cpp)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -148,4 +150,6 @@ Day 78:\
 [1. Binary Tree Cameras](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day78/BTreeCamDFS.cpp)\
 Day 79:\
 [1. Find center of Star Graph](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day79/findCenterOfStarGraph.cpp)\
-[2. Maximum score of good array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day79/maxScoreOfGoodArray.cpp)
+[2. Maximum score of good array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day79/maxScoreOfGoodArray.cpp)\
+Day 80:\
+[1. Generate Parantheses](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day80/genPar.cpp)
