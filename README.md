@@ -154,6 +154,6 @@ Day 79:\
 [1. Find center of Star Graph](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day79/findCenterOfStarGraph.cpp)\
 [2. Maximum score of good array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day79/maxScoreOfGoodArray.cpp)\
 Day 80:\
-[1. Generate Parantheses](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day80/genPar.cpp)
+[1. Generate Parantheses](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day80/genPar.cpp)\
 Day 81:\
 [1. Finding the maximum sum of not adjacent elements](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day81/maxSubsetSumNoAdj.cpp)
