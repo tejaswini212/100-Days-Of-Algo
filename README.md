@@ -86,6 +86,8 @@ Day 31:\
 [1. Kth Missing Position Number](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day31/kthMissingPosNum.cpp)\
 Day 32:\
 [1. Add two numbers stored in a linked list](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day32/add2numLL.cpp)\
+Day 33:\
+[1. Odd Even Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day33/oddEvenLL.cpp)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -161,3 +163,5 @@ Day 81:\
 [1. Finding the maximum sum of not adjacent elements](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day81/maxSubsetSumNoAdj.cpp)\
 Day 82:\
 [1. Generate random point in a circle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day82/generateRandomCir.cpp)
+Day 83:\
+[1. Domino on Windowsill](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day83/dominoOnWin.cpp)
