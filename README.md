@@ -162,6 +162,6 @@ Day 80:\
 Day 81:\
 [1. Finding the maximum sum of not adjacent elements](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day81/maxSubsetSumNoAdj.cpp)\
 Day 82:\
-[1. Generate random point in a circle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day82/generateRandomCir.cpp)
+[1. Generate random point in a circle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day82/generateRandomCir.cpp)\
 Day 83:\
 [1. Domino on Windowsill](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day83/dominoOnWin.cpp)
