@@ -90,6 +90,8 @@ Day 33:\
 [1. Odd Even Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day33/oddEvenLL.cpp)\
 Day 34:\
 [1. House Robber Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day34/houseRobber.cpp)\
+Day 35:\
+[1. Rotten Oranges](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day35/rottenOranges.cpp)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -171,4 +173,8 @@ Day 84:\
 Find the length of largest Wiggle Subsequence\
 [1. Quadratic Dp](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day84/longestWiggleSubDP.cpp)\
 [2. Linear DP](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day84/longestWiggleSubLinDP.cpp)\
-[3. Greedy Method](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day84/longestWiggleSubGreedy.cpp)
+[3. Greedy Method](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day84/longestWiggleSubGreedy.cpp)\
+Day 85:\
+[1. Even digit number with equal string](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day85/double.cpp)\
+[2. Round down digits](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day85/roundDown.cpp)\
+[3. Second largest digit in an alphanumeric string](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day85/secondLargestDigit.cpp)
