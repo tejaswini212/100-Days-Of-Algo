@@ -92,6 +92,8 @@ Day 34:\
 [1. House Robber Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day34/houseRobber.cpp)\
 Day 35:\
 [1. Rotten Oranges](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day35/rottenOranges.cpp)\
+Day 36:\
+[1. Prune a Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day36/pruneBT.cpp)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -177,4 +179,6 @@ Find the length of largest Wiggle Subsequence\
 Day 85:\
 [1. Even digit number with equal string](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day85/double.cpp)\
 [2. Round down digits](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day85/roundDown.cpp)\
-[3. Second largest digit in an alphanumeric string](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day85/secondLargestDigit.cpp)
+[3. Second largest digit in an alphanumeric string](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day85/secondLargestDigit.cpp)\
+Day 86:\
+[1. Currency Exchange](https://github.com/tejaswini212/100-Days-Of-Algo/tree/main/Day86)
