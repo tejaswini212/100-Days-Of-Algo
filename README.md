@@ -96,6 +96,8 @@ Day 36:\
 [1. Prune a Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day36/pruneBT.cpp)\
 Day 37:\
 [1. Pascal's Triangle](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day37/pascalsTriangle.cpp)\
+Day 38:\
+[1. Sudoku Solver](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day38/sudokuSolver.cpp)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -185,4 +187,6 @@ Day 85:\
 Day 86:\
 [1. Currency Exchange](https://github.com/tejaswini212/100-Days-Of-Algo/tree/main/Day86)\
 Day 87:\
-[1. Add or Divide](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day87/addOrDivide.cpp)
+[1. Add or Divide](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day87/addOrDivide.cpp)\
+Day 88:\
+[1. Node depth of a binary tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day88/nodeDepths.cpp)
