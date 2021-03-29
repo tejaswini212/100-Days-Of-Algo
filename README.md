@@ -102,6 +102,8 @@ Day 39:\
 [1. Number of ways to climb stairs](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day39/stairsNumWays.cpp)\
 Day 40:\
 [1. Search in a maze](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day40/searchInMaze.cpp)\
+Day 50:\
+[1. Merge Two Binary Trees](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day41/mergeTwoBT.cpp)\
 Day 51:\
 [1. Unbounded K-Stacks](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day51/unboundedKSack.cpp)\
 Day 52:\
@@ -197,4 +199,6 @@ Day 88:\
 Day 89:\
 [1. Strange Table](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day89/strangeTable.cpp)\
 Day 90:\
-[1. Point Grid](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day90/pointGrid.cpp)
+[1. Point Grid](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day90/pointGrid.cpp)\
+Day 91:\
+[1. River Sizes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day91/riverSizes.cpp)
