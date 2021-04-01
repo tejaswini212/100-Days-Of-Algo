@@ -102,6 +102,10 @@ Day 39:\
 [1. Number of ways to climb stairs](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day39/stairsNumWays.cpp)\
 Day 40:\
 [1. Search in a maze](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day40/searchInMaze.cpp)\
+Day 41:\
+[1. Merge Two Binary Trees](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day41/mergeTwoBT.cpp)\
+Day 42:\
+[1. Robot Return Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day42/robotReturn.cpp)\
 Day 50:\
 [1. Merge Two Binary Trees](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day41/mergeTwoBT.cpp)\
 Day 51:\
@@ -201,4 +205,8 @@ Day 89:\
 Day 90:\
 [1. Point Grid](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day90/pointGrid.cpp)\
 Day 91:\
-[1. River Sizes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day91/riverSizes.cpp)
+[1. River Sizes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day91/riverSizes.cpp)\
+Day 92:\
+[1. Minimum Rewards](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/minRewards.cpp)\
+[2. Peaks in a window](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/peaksInWindow.cpp)\
+[3. Sorted Adjacent Difference Array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/sortedAdjacentDiff.cpp)
