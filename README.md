@@ -53,7 +53,7 @@ Day 18:\
 Day 19:\
 [1. LCA in BST](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day19/LCAinBST.cpp)\
 [2. Flatten Linked List](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day19/flattenLL.cpp)\
-Day 20:
+Day 20:\
 [1. Diagonal Traversal of a Matrix](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day20/diagonaltrav.cpp)\
 [2. Swap Linked List's Nodes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day20/swapLLNodes.cpp)\
 Day 21:\
@@ -106,6 +106,8 @@ Day 41:\
 [1. Merge Two Binary Trees](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day41/mergeTwoBT.cpp)\
 Day 42:\
 [1. Robot Return Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day42/robotReturn.cpp)\
+Day 43:\
+[1. Range Sum Query](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day43/rangeSumQuery.cpp)\
 Day 50:\
 [1. Merge Two Binary Trees](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day41/mergeTwoBT.cpp)\
 Day 51:\
@@ -209,4 +211,6 @@ Day 91:\
 Day 92:\
 [1. Minimum Rewards](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/minRewards.cpp)\
 [2. Peaks in a window](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/peaksInWindow.cpp)\
-[3. Sorted Adjacent Difference Array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/sortedAdjacentDiff.cpp)
+[3. Sorted Adjacent Difference Array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/sortedAdjacentDiff.cpp)\
+Day 93:\
+[1. Maximum cuts on a rope](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day93/ribbonCut.cpp)
