@@ -110,6 +110,8 @@ Day 43:\
 [1. Range Sum Query](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day43/rangeSumQuery.cpp)\
 Day 44:\
 [1. Asteroid Collision Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day44/asteroidCollision.java)\
+Day 45:\
+[1. Longest Increasing Subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day45/longestIncSubseq.cpp)\
 Day 50:\
 [1. Merge Two Binary Trees](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day41/mergeTwoBT.cpp)\
 Day 51:\
@@ -217,4 +219,6 @@ Day 92:\
 Day 93:\
 [1. Maximum cuts on a rope](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day93/ribbonCut.cpp)\
 Day 94:\
-[1. Subtree of a Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day94/subtreeOfBTree.cpp)
+[1. Subtree of a Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day94/subtreeOfBTree.cpp)\
+Day 95:\
+[1. Design of a Circular Queue](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day95/circQueueDesign.cpp)
