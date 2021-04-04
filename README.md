@@ -108,6 +108,8 @@ Day 42:\
 [1. Robot Return Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day42/robotReturn.cpp)\
 Day 43:\
 [1. Range Sum Query](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day43/rangeSumQuery.cpp)\
+Day 44:\
+[1. Asteroid Collision Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day44/asteroidCollision.java)\
 Day 50:\
 [1. Merge Two Binary Trees](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day41/mergeTwoBT.cpp)\
 Day 51:\
@@ -213,4 +215,6 @@ Day 92:\
 [2. Peaks in a window](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/peaksInWindow.cpp)\
 [3. Sorted Adjacent Difference Array](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day92/sortedAdjacentDiff.cpp)\
 Day 93:\
-[1. Maximum cuts on a rope](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day93/ribbonCut.cpp)
+[1. Maximum cuts on a rope](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day93/ribbonCut.cpp)\
+Day 94:\
+[1. Subtree of a Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day94/subtreeOfBTree.cpp)
