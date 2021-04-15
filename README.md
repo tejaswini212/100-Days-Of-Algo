@@ -221,4 +221,6 @@ Day 93:\
 Day 94:\
 [1. Subtree of a Binary Tree](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day94/subtreeOfBTree.cpp)\
 Day 95:\
-[1. Design of a Circular Queue](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day95/circQueueDesign.cpp)
+[1. Design of a Circular Queue](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day95/circQueueDesign.cpp)\
+Day 96:\
+[1. Pair wise swap of linked list nodes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day96/pairWiseSwapLL.cpp)
