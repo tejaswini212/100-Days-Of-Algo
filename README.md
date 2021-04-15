@@ -112,6 +112,10 @@ Day 44:\
 [1. Asteroid Collision Problem](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day44/asteroidCollision.java)\
 Day 45:\
 [1. Longest Increasing Subsequence](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day45/longestIncSubseq.cpp)\
+Day 46:\
+[1. Sort matrix diagonally](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day46/sortMatrixDiagonally.cpp)\
+Day 47:\
+[1. Merge k sorted lists](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day47/mergeKSortedLists.cpp)\
 Day 50:\
 [1. Merge Two Binary Trees](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day41/mergeTwoBT.cpp)\
 Day 51:\
@@ -223,4 +227,7 @@ Day 94:\
 Day 95:\
 [1. Design of a Circular Queue](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day95/circQueueDesign.cpp)\
 Day 96:\
-[1. Pair wise swap of linked list nodes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day96/pairWiseSwapLL.cpp)
+[1. Pair wise swap of linked list nodes](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day96/pairWiseSwapLL.cpp)\
+Day 97:\
+[1. Atcoder Dp - a](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day97/atcoder_dp_a_Frog.cpp)\
+[2. Atcoder DP - b](https://github.com/tejaswini212/100-Days-Of-Algo/blob/main/Day97/atcoder_dp_b_Frog.cpp)
